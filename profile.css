@@ -1,0 +1,17 @@
+body {
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 720px;
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.7;
+}
+
+a, a:visited {
+    font-weight: 500;
+    color: black;
+}
+
